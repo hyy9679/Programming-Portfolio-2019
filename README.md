@@ -1,9 +1,9 @@
 ## 2019 Programming 1 Portfolio
-_By Haru Yoo_
+**By Haru Yoo**
 
 jiyoyoo9679@granitesd.org
 
 ## First Semester Processing Calculator
-_Completed Nov, 2018_
+**Completed Nov, 2018**
 
 Object-Oriented calculator with features including...
