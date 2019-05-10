@@ -25,3 +25,10 @@ An Object-Oriented Etch-A-Sketch program
 ![Etch-A-Sketch](https://github.com/hyy9679/Programming-Portfolio-2019/blob/master/Images/line-007863.png)
 
 [Source Code](https://github.com/hyy9679/Programming-Portfolio-2019/blob/master/Code/Etch_A_Sketch.pde.zip)
+
+## First Semester Processing Screen Saver
+**Completed Nov, 2018**
+
+An Object-Oriented Screensaver
+
+![Screensaver](https://github.com/hyy9679/Programming-Portfolio-2019/blob/master/Images/Screen%20Shot%202019-05-08%20at%201.41.57%20PM.png)
