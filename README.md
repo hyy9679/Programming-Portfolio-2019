@@ -36,3 +36,17 @@ An Object-Oriented Screensaver
 ![Screensaver](https://github.com/hyy9679/Programming-Portfolio-2019/blob/master/Images/Screensaver.png)
 
 [Source Code](https://github.com/hyy9679/Programming-Portfolio-2019/blob/master/Code/screenSaver.zip)
+
+
+## First Semester Processing Computer History Timeline
+**Completed Sep, 2018**
+
+An interactve, Object-Oriented Timeline on the history of computers.
+
+![Timeline](https://github.com/hyy9679/Programming-Portfolio-2019/blob/master/Images/Screen%20Shot%202019-05-08%20at%202.05.45%20PM.png)
+
+![Timeline](https://github.com/hyy9679/Programming-Portfolio-2019/blob/master/Images/Screen%20Shot%202019-05-08%20at%202.06.00%20PM.png)
+
+![Timeline](https://github.com/hyy9679/Programming-Portfolio-2019/blob/master/Images/Screen%20Shot%202019-05-08%20at%202.06.11%20PM.png)
+
+[Source Code](https://github.com/hyy9679/Programming-Portfolio-2019/blob/master/Code/Timeline.pde.zip)
