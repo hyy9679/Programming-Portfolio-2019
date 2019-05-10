@@ -11,7 +11,7 @@ Object-Oriented calculator with features including...
 
 ![Calculator Buttons](https://github.com/hyy9679/Programming-Portfolio-2019/blob/master/Images/Screen%20Shot%202019-05-08%20at%201.37.38%20PM.png)
 
-![Calculator Buttons](https://github.com/hyy9679/Programming-Portfolio-2019/blob/master/Images/CalcScreenshot.png)
+![Calculator Buttons](https://github.com/hyy9679/Programming-Portfolio-2019/blob/master/Images/CalcScreenshot.jpg)
 
 [Source Code](https://github.com/hyy9679/Programming-Portfolio-2019/blob/master/Code/calc.zip)
 
