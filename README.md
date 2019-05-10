@@ -31,4 +31,6 @@ An Object-Oriented Etch-A-Sketch program
 
 An Object-Oriented Screensaver
 
-![Screensaver](https://github.com/hyy9679/Programming-Portfolio-2019/blob/master/Images/Screen%20Shot%202019-05-08%20at%201.41.57%20PM.png)
+![Screensaver](https://github.com/hyy9679/Programming-Portfolio-2019/blob/master/Images/Screensaver1.png)
+
+![Screensaver](https://github.com/hyy9679/Programming-Portfolio-2019/blob/master/Images/Screensaver.png)
