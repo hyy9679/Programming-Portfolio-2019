@@ -58,9 +58,9 @@ An interactve, Object-Oriented timeline on the history of computers.
 
 An interactive, Object-Oriented program that converts cups to tablespoons.
 
-![Measurement Converter](https://github.com/hyy9679/Programming-Portfolio-2019/blob/master/Images/Screen%20Shot%202019-05-08%20at%202.07.23%20PM.png)
+![Measurement Converter](https://github.com/hyy9679/Programming-Portfolio-2019/blob/master/Images/MeasConverter1.png?raw=true)
 
-![Measurement Converter](https://github.com/hyy9679/Programming-Portfolio-2019/blob/master/Images/Screen%20Shot%202019-05-08%20at%202.07.36%20PM.png)
+![Measurement Converter](https://github.com/hyy9679/Programming-Portfolio-2019/blob/master/Images/MeasConverter2.png?raw=true)
 
 [Source Code](https://github.com/hyy9679/Programming-Portfolio-2019/blob/master/Code/measConverterFinal.zip)
 
