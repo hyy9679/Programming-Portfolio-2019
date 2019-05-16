@@ -21,7 +21,7 @@ Object-Oriented calculator with features including...
 
 An Object-Oriented Etch-A-Sketch program
 
-![Etch-A-Sketch](https://github.com/hyy9679/Programming-Portfolio-2019/blob/master/Images/line-000243.png)
+![Etch-A-Sketch](https://github.com/hyy9679/Programming-Portfolio-2019/blob/master/Images/line-000243.png?raw=true)
 
 ![Etch-A-Sketch](https://github.com/hyy9679/Programming-Portfolio-2019/blob/master/Images/line-007863.png)
 
