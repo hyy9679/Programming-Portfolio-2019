@@ -44,11 +44,11 @@ An Object-Oriented Screensaver
 
 An interactve, Object-Oriented timeline on the history of computers.
 
-![Timeline](https://github.com/hyy9679/Programming-Portfolio-2019/blob/master/Images/Screen%20Shot%202019-05-08%20at%202.05.45%20PM.png)
+![Timeline](https://github.com/hyy9679/Programming-Portfolio-2019/blob/master/Images/Timeline1.png?raw=true)
 
-![Timeline](https://github.com/hyy9679/Programming-Portfolio-2019/blob/master/Images/Screen%20Shot%202019-05-08%20at%202.06.00%20PM.png)
+![Timeline](https://github.com/hyy9679/Programming-Portfolio-2019/blob/master/Images/Timeline2.png?raw=true)
 
-![Timeline](https://github.com/hyy9679/Programming-Portfolio-2019/blob/master/Images/Screen%20Shot%202019-05-08%20at%202.06.11%20PM.png)
+![Timeline](https://github.com/hyy9679/Programming-Portfolio-2019/blob/master/Images/Timeline3.png?raw=true)
 
 [Source Code](https://github.com/hyy9679/Programming-Portfolio-2019/blob/master/Code/Timeline.pde.zip)
 
