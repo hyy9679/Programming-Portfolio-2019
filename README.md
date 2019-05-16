@@ -23,7 +23,7 @@ An Object-Oriented Etch-A-Sketch program
 
 ![Etch-A-Sketch](https://github.com/hyy9679/Programming-Portfolio-2019/blob/master/Images/line-000243.png?raw=true)
 
-![Etch-A-Sketch](https://github.com/hyy9679/Programming-Portfolio-2019/blob/master/Images/line-007863.png)
+![Etch-A-Sketch](https://github.com/hyy9679/Programming-Portfolio-2019/blob/master/Images/line-007863.png?raw=true)
 
 [Source Code](https://github.com/hyy9679/Programming-Portfolio-2019/blob/master/Code/Etch_A_Sketch.pde.zip)
 
@@ -32,9 +32,9 @@ An Object-Oriented Etch-A-Sketch program
 
 An Object-Oriented Screensaver
 
-![Screensaver](https://github.com/hyy9679/Programming-Portfolio-2019/blob/master/Images/Screensaver1.png)
+![Screensaver](https://github.com/hyy9679/Programming-Portfolio-2019/blob/master/Images/Screensaver1.png?raw=true)
 
-![Screensaver](https://github.com/hyy9679/Programming-Portfolio-2019/blob/master/Images/Screensaver.png)
+![Screensaver](https://github.com/hyy9679/Programming-Portfolio-2019/blob/master/Images/Screensaver.png?raw=true)
 
 [Source Code](https://github.com/hyy9679/Programming-Portfolio-2019/blob/master/Code/screenSaver.zip)
 
