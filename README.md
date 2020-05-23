@@ -69,3 +69,9 @@ An interactive, Object-Oriented program that converts cups to tablespoons.
 **Work in Progress**
 
 An interactive, Object-Oriented 
+
+
+## Second Year Second Semester Alcohol App
+**Completed April, 2020**
+
+An interactive, Object-Oriented program that allows the user to  keep track of alcohol intake.
